@@ -44,4 +44,5 @@ This project reflects independent analytical work based on professional experien
 It does not disclose confidential information and does not represent any specific institution.
 
 ---
-Author: ma-ro-dev-code
+
+Author: Maria Root
