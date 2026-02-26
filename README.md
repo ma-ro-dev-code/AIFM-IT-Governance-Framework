@@ -2,20 +2,31 @@
 
 ## Overview
 
-This repository presents a structured governance framework addressing ICT control architecture within regulated AIFM environments.
+This repository presents a structured ICT governance framework designed for regulated AIFM environments, with focus on internal control architecture, segregation of duties, privileged access governance and operational resilience principles.
 
-The focus lies on segregation of duties, privileged access management, audit trail design and operational resilience principles relevant for fund structures.
+The objective is to translate supervisory expectations into implementable governance structures within fund management entities.
 
-## Objectives
+## Regulatory Context
 
-The framework aims to:
+The framework is aligned with:
 
-- Define governance principles for ICT ownership and accountability  
-- Establish segregation of duties (SoD) models  
-- Structure privileged access management (PAM) controls  
-- Define audit trail and logging expectations  
-- Address key person and operational resilience risks  
-- Map outsourcing oversight minimum requirements  
+- AIFMD risk governance principles  
+- CSSF circulars on IT governance and outsourcing  
+- Operational resilience requirements under DORA  
+- Internal control and audit trail expectations within regulated financial institutions  
+
+## Core Focus Areas
+
+The framework addresses:
+
+- ICT governance structure and accountability mapping  
+- Segregation of Duties (SoD) and RACI modelling  
+- Privileged Access Management (PAM) control logic  
+- Superuser risk and access limitation mechanisms  
+- Audit trail, logging and evidencing standards  
+- Database integrity and change management controls  
+- Outsourcing oversight minimum control expectations  
+- Key person and concentration risk in internally developed systems  
 
 ## Repository Structure
 
@@ -33,15 +44,26 @@ The framework aims to:
 - Logging review checklist  
 - Outsourcing minimum control matrix  
 
+## Methodological Approach
+
+The framework follows a structured control design methodology:
+
+- Risk identification  
+- Governance ownership allocation  
+- Control objective formulation  
+- Access limitation modelling  
+- Audit traceability design  
+- Supervisory challenge simulation  
+
 ## Status
 
-This governance framework is currently being expanded.  
-Documentation and structured control artefacts will be added progressively.
+This governance framework is under progressive and structured development.  
+Additional analytical artefacts and control models will be uploaded incrementally.
 
 ## Disclaimer
 
-This project reflects independent analytical work based on professional experience within regulated financial environments.  
-It does not disclose confidential information and does not represent any specific institution.
+This repository reflects independent analytical work based on professional experience in regulated financial environments.  
+It does not disclose confidential information and does not represent any specific institution or regulatory authority.
 
 ---
 
